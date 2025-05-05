@@ -14,6 +14,7 @@ let year 2025
 /*
 main code
 */
+console.log 
 
 
 /*
