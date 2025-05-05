@@ -9,7 +9,7 @@ console.log("task 2 variables ");
 //variables
 let name"Hollie"
 let age=15
-let pocket10000000
+let pocket money 10000000
 let year 2025
 /*
 main code
