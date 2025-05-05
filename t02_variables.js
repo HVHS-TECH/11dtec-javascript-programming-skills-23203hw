@@ -8,6 +8,7 @@ console.log("task 2 variables ");
 
 //variables
 hollie
+
 /*
 main code
 */
