@@ -4,7 +4,7 @@ hollie
 29/04/2025 
 week 1 
 */
-console.log("task 3 math ");
+console.log("math ");
 
 //variables
 let name="Hollie"
