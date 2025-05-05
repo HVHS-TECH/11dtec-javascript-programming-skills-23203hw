@@ -14,9 +14,10 @@ let year =2025
 /*
 main code
 */
-console.log ("you have" , pocketmoney, "dollers") 
-console.log("hi")
 
+console.log("Hi" , name )
+console.log("as of " , year , "you are" , age , "years old")
+console.log ("you have" , pocketmoney, "dollars") 
 
 /*
 functions
