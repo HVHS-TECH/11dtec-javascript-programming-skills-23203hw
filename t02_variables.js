@@ -8,7 +8,7 @@ console.log("task 2 variables ");
 
 //variables
 hollie
-15
+age=15
 10000000
 2025
 /*
