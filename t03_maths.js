@@ -11,13 +11,20 @@ let name="Hollie"
 let age=15
 let pocketmoney= 10000000
 let year =2025
+let birthyear =year -age
+var mynumber =15
+var myothernumber =2
 /*
 main code
 */
-
+console.log("as of " , year , "you are" , age , "years old")
+console.log("you were born in" , birthyear)
+*/
 console.log("Hi" , name )
 console.log("as of " , year , "you are" , age , "years old")
+console.log("you were born in" , birthyear)
 console.log ("you have" , pocketmoney, "dollars") 
+console.log ("in 10 years you will be " )
 
 /*
 functions
