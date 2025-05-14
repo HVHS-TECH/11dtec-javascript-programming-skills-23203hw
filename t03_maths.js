@@ -28,6 +28,8 @@ console.log ("you have" , pocketmoney, "dollars")
 console.log ("in 10 years you will be " +ageplusten +"years old ")
 console.log ("half of your money is" ,pocketmoney/2)
 
+
+
 /*
 functions
 */
