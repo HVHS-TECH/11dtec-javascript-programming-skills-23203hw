@@ -31,7 +31,8 @@ alert("Welcome the user to the program.");
 var hi =prompt('what is your birth name');
 var bye = prompt('what is your age ritgh this minuite');
 var hello = prompt ('how much pocketmoney do you have ');
-var chice 
+var choice = prompt("on a scale of 1-3 how much do you like chocolate?");
+let classarray ("")
 
 
 /*
