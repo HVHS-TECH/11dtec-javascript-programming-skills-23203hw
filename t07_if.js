@@ -35,9 +35,8 @@ var choice = prompt("on a scale of 0-3 how much do you like chocolate?");
 let classarray = ["You loath chocolate", "Chocolate is meh", "Chocolate is pretty good", "Chocolate is the best thing EVER!!!!"];
 alert ("person" +choice+ "is " +classarray[choice]);
 
-if (condition){
- block of  code to  be excecuted if condition is true
-} else {block of  code to  be excecuted if condition is fa}
+if (pocketmoney , 10000000){ console}
+
 
 
 
