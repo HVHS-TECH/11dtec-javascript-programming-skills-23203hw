@@ -36,7 +36,7 @@ let classarray = ["You loath chocolate", "Chocolate is meh", "Chocolate is prett
 alert ("person" +choice+ "is " +classarray[choice]);
 
 if (condition){
- block of  code to  be ex
+ block of  code to  be exr
 }
 
 
