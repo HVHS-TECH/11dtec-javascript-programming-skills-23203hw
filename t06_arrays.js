@@ -31,7 +31,7 @@ alert("Welcome the user to the program.");
 var hi =prompt('what is your birth name');
 var bye = prompt('what is your age ritgh this minuite');
 var hello = prompt ('how much pocketmoney do you have ');
-var chice
+var chice 
 
 
 /*
