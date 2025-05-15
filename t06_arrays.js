@@ -32,7 +32,7 @@ var hi =prompt('what is your birth name');
 var bye = prompt('what is your age ritgh this minuite');
 var hello = prompt ('how much pocketmoney do you have ');
 var choice = prompt("on a scale of 1-3 how much do you like chocolate?");
-let classarray = ("You loath chocolate", "Chocolate is meh", "Chocolate is pretty good", "Chocolate is the best thing EVER!!!!");
+let classarray = ["You loath chocolate", "Chocolate is meh", "Chocolate is pretty good", "Chocolate is the best thing EVER!!!!");
 alert ("person" +choice+ "is " +classarray[choice]);
 
 
