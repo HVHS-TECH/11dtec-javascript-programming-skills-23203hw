@@ -1,4 +1,4 @@
-console.log("Task 5 -Alerts & prompts ")
+console.log("Task 5 -arrays ")
 /*
 taskvariables
 hollie 
