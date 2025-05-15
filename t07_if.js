@@ -36,8 +36,8 @@ let classarray = ["You loath chocolate", "Chocolate is meh", "Chocolate is prett
 alert ("person" +choice+ "is " +classarray[choice]);
 
 if (condition){
- block of  code to  be exr
-}
+ block of  code to  be excecuted if condition is true
+} else {block of  code to  be excecuted if condition is fa}
 
 
 
