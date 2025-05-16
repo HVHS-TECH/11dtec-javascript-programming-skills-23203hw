@@ -38,6 +38,9 @@ alert ("person" +choice+ "is " +classarray[choice]);
 if (pocketmoney > 10000000){ 
     alert ("hi");
 }
+else{
+    
+}
 
 
 
