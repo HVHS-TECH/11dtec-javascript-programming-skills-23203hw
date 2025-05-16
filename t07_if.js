@@ -35,7 +35,7 @@ var choice = prompt("on a scale of 0-3 how much do you like chocolate?");
 let classarray = ["You loath chocolate", "Chocolate is meh", "Chocolate is pretty good", "Chocolate is the best thing EVER!!!!"];
 alert ("person" +choice+ "is " +classarray[choice]);
 
-if (pocketmoney , 10000000){ console.log("")
+if (pocketmoney , 10000000){ console.log("hi ")
 }
 
 
