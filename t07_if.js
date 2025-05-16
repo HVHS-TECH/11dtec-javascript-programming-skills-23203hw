@@ -36,7 +36,7 @@ let classarray = ["You loath chocolate", "Chocolate is meh", "Chocolate is prett
 alert ("person" +choice+ "is " +classarray[choice]);
 
 if (pocketmoney > 10000000){ 
-    console.log("hi ")
+    alert ("hi");
 }
 
 
