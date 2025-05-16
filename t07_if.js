@@ -39,7 +39,7 @@ if (pocketmoney > 10000000){
     alert ("hi");
 }
 else{
-    
+    alert ("bye")
 }
 
 
