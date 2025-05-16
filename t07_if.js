@@ -9,7 +9,7 @@ console.log("math ");
 
 let name="Hollie"
 let age=16
-let pocketmoney= 1200000000000000000000
+let pocketmoney= 120000000000000
 let year =2025
 let birthyear =year - age
 var mynumber =16
