@@ -17,4 +17,5 @@ main code
 functions
 */
 function  getfavcolour () {
-    userfavcolour = prompt("what is your ")
+    userfavcolour = prompt("what is your favourite colour?")
+    alert
