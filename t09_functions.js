@@ -11,11 +11,13 @@ console.log("hiii people how are you today .js");
 /*
 main code
 */
-
+getfavcolour();
 
 /*
 functions
 */
 function  getfavcolour () {
     userfavcolour = prompt("what is your favourite colour?")
-    alert
+    alert("your favourite colour is:+ userfavcolour")
+}
+    
