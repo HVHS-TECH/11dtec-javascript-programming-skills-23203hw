@@ -28,8 +28,8 @@ console.log ("you have" , pocketmoney, "dollars")
 console.log ("in 10 years you will be " +ageplusten +"years old ")
 console.log ("half of your money is" ,pocketmoney/2)
 alert("Welcome the user to the program.");
-var hi =prompt('what is your birth name');
-var bye = prompt('what is your age ritgh this minuite');
+var hi =prompt('what is your name');
+var bye = prompt('what is your age ');
 var hello = prompt ('how much pocketmoney do you have ');
 
 
